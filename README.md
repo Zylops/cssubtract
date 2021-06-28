@@ -5,3 +5,5 @@ A flask web app made in python made to completely remove css from almost any web
 If you wanna host it on your own, on line 6 in main.py change the url to the actual url of your server for example:
 
 > url = 'https://epicserver.com:69420'
+
+and then run main.py
